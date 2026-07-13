@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AlgorithmKit">
+   </FileRef>
+   <Group
+      location = "group:01-Arrays-and-Strings"
+      name = "01-Arrays-and-Strings">
+      <Group
+         location = "group:8 Atoi"
+         name = "8 Atoi">
+         <FileRef
+            location = "group:String-to-Integer-atoi.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:3 LengthOfLongestSubstring"
+         name = "3 LengthOfLongestSubstring">
+         <FileRef
+            location = "group:Longest-Substring.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:1 TwoSum"
+         name = "1 TwoSum">
+         <FileRef
+            location = "group:Two-Sum.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:6 Z Transformation"
+         name = "6 Z Transformation">
+         <FileRef
+            location = "group:Zigzag-Conversion.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:02-Linked-List"
+      name = "02-Linked-List">
+      <Group
+         location = "group:2 AddTwoNumbers"
+         name = "2 AddTwoNumbers">
+         <FileRef
+            location = "group:Add-Two-Numbers.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:206 ReverseList"
+         name = "206 ReverseList">
+         <FileRef
+            location = "group:Reverse-Linked-List.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:92 ReverseBetween"
+         name = "92 ReverseBetween">
+         <FileRef
+            location = "group:Reverse-Linked-List-II.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:03-Stack-and-Queue"
+      name = "03-Stack-and-Queue">
+   </Group>
+   <Group
+      location = "group:04-Tree-and-Graph"
+      name = "04-Tree-and-Graph">
+   </Group>
+   <Group
+      location = "group:05-Dynamic-Programming"
+      name = "05-Dynamic-Programming">
+      <Group
+         location = "group:53 maxSubArray"
+         name = "53 maxSubArray">
+         <FileRef
+            location = "group:Maximum-Subarray.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:06-Backtracking-and-Recursion"
+      name = "06-Backtracking-and-Recursion">
+   </Group>
+   <Group
+      location = "group:07-Two-Pointers-and-Sliding-Window"
+      name = "07-Two-Pointers-and-Sliding-Window">
+      <Group
+         location = "group:5 LongestPalindrome"
+         name = "5 LongestPalindrome">
+         <FileRef
+            location = "group:Longest-Palindromic-Substring.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:08-Sorting-and-Searching"
+      name = "08-Sorting-and-Searching">
+      <Group
+         location = "group:4 FindMedian"
+         name = "4 FindMedian">
+         <FileRef
+            location = "group:Median-of-Two-Sorted-Arrays.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:704 Search"
+         name = "704 Search">
+         <FileRef
+            location = "group:Binary-Search.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:35 SearchInsert"
+         name = "35 SearchInsert">
+         <FileRef
+            location = "group:Search-Insert-Position.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:09-Hash-Table"
+      name = "09-Hash-Table">
+   </Group>
+   <Group
+      location = "group:10-Math-and-Bit-Manipulation"
+      name = "10-Math-and-Bit-Manipulation">
+      <Group
+         location = "group:7 ReverseInteger"
+         name = "7 ReverseInteger">
+         <FileRef
+            location = "group:Reverse-Integer..playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:9 Palindrome"
+         name = "9 Palindrome">
+         <FileRef
+            location = "group:Palindrome-Number.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:11-Design-Problems"
+      name = "11-Design-Problems">
+   </Group>
+</Workspace>
