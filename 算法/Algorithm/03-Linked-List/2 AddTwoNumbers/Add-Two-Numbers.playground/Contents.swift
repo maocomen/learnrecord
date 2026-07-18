@@ -8,7 +8,7 @@
 import UIKit
 import AlgorithmKit
 
-extension Solution {
+class Solution {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var node1 = l1
         var node2 = l2
